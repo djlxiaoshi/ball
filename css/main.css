@@ -1,0 +1,15 @@
+a{text-decoration: none}
+.add_ball{display: inline-block;
+	width: 80%;height: 50px;
+	text-align: center;
+	line-height: 50px;
+	background:#45E4A5;
+	margin: 20px auto;
+	color: #fff;
+}
+#vanvas{background:#fff;}
+body{background:#000;
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	font-family: "微软雅黑";}
